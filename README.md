@@ -46,7 +46,7 @@
 
 ### 📫 Let's Connect
 <p>
-  <a href="www.linkedin.com/in/movesh-muruganantham-73324b255" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/movesh-muruganantham-73324b255" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="moveshmuruganantham3@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
   <a href="https://your-portfolio-link.com" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-121013?style=flat&logo=vercel&logoColor=white"/></a>
 </p>
