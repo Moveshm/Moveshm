@@ -7,7 +7,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&color=00FFFF&lines=Crafting+Scalable+Apps+with+Java+%26+Spring+Boot;Forging+Interactive+Frontends+with+ReactJS;Securing+Backends+with+JWT+%26+REST+APIs;Always+Leveling+Up+My+Code+Skills+💫" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&color=00FFFF&width=700&height=45&size=22&speed=45&pause=900&lines=Crafting+Scalable+Apps+with+Java+and+Spring+Boot;Forging+Interactive+Frontends+with+ReactJS;Securing+Backends+with+JWT+and+REST+APIs;Always+Leveling+Up+My+Code+Skills+💫" alt="Typing SVG" />
 </p>
 
 <p align="center">
