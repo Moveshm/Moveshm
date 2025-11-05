@@ -7,13 +7,17 @@
 
 ---
 
-### 🧙‍♂️ About Me
-> “Turning logic into magic — one line of code at a time.” 💻✨  
+### 🧙‍♂️ About Me  
+> “Every great system starts with a single class file — and a spark of curiosity.” ⚔️  
 
-- 🔭 I’m currently crafting **secure, scalable RESTful APIs** using **Spring Boot**  
-- 🌱 Leveling up in **Microservices**, **JWT Authentication**, and **React Hooks**  
-- ⚡ Passionate about **problem-solving**, **clean architecture**, and **AI-driven apps**  
-- 🎯 Mission: To bridge backend logic and frontend artistry seamlessly  
+I’m a **Full Stack Java Developer** on an epic quest to master both **backend sorcery and frontend finesse**.  
+My journey began in the realms of **Spring Boot**, **RESTful APIs**, and **secure JWT authentication**, where I forged robust systems powered by logic and clean architecture. ⚙️  
+
+🛠️ Currently, I’m sharpening my **UI spells** — diving into **ReactJS**, responsive design, and user-friendly interfaces to balance both code and creativity.  
+💡 As a **backend enthusiast**, I love building systems that blend **performance**, **security**, and **scalability**, while experimenting with a dash of **AI tools** and automation magic.  
+
+> 🌟 *Learning through projects, growing through challenges — and coding my story one commit at a time.*
+
 
 ---
 
@@ -66,6 +70,19 @@
 
 #### 📨 [Email Writer AI](https://github.com/Moveshm/email-writer-ai)
 🤖 AI-based smart email content generator using JavaScript logic and structured prompts  
+
+---
+
+### 🧩 Epic Projects (Real-World Quests) 🛡️  
+
+| ⚔️ Project | 💬 Description | 🧠 Tech Stack |
+|-------------|----------------|---------------|
+| ![Book](https://img.shields.io/badge/📚-Book_Management_System-blue?style=for-the-badge) <br> [**Book Management System**](https://github.com/Moveshm/BookManagementSystem) | Built with **Spring Boot**, **MySQL**, and **Bootstrap UI** for CRUD operations. | ![Spring Boot](https://img.shields.io/badge/SpringBoot-%236DB33F.svg?style=flat&logo=spring-boot&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-%2300758F.svg?style=flat&logo=mysql&logoColor=white) |
+| ![FoodApp](https://img.shields.io/badge/🍽️-SpiceRoute_FoodApp-orange?style=for-the-badge) <br> [**SpiceRoute – Food Ordering App**](https://github.com/Moveshm/foodApp) | Full-stack food delivery app with **JWT-secured** Spring Boot backend and dynamic menus. | ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/SpringBoot-%236DB33F.svg?style=flat&logo=spring-boot&logoColor=white) ![JSP](https://img.shields.io/badge/JSP-%23000000.svg?style=flat&logo=java&logoColor=white) |
+| ![AI](https://img.shields.io/badge/🧠-Comment_Cure_Toxic_Detection-purple?style=for-the-badge) <br> [**Comment Cure – Toxic Comment Detection**](https://github.com/Moveshm/Toxic_Comment_Detection) | Detects toxic comments and suggests polite alternatives using **rule-based NLP**. | ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JS-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black) |
+| ![Todo](https://img.shields.io/badge/✅-ToDo_App-green?style=for-the-badge) <br> [**To-Do Web App**](https://github.com/Moveshm/ToDo) | Productivity app built with **Spring Boot + ReactJS**, secured with JWT. | ![Spring Boot](https://img.shields.io/badge/SpringBoot-%236DB33F.svg?style=flat&logo=spring-boot&logoColor=white) ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=black) |
+| ![Weather](https://img.shields.io/badge/☁️-Weather_React_App-skyblue?style=for-the-badge) <br> [**Weather React App**](https://github.com/Moveshm/Weather_React) | Displays live weather updates using **ReactJS + OpenWeather API**. | ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=black) ![API](https://img.shields.io/badge/API-Integration-blue?style=flat) |
+| ![Mail](https://img.shields.io/badge/📨-Email_Writer_AI-red?style=for-the-badge) <br> [**Email Writer AI**](https://github.com/Moveshm/email-writer-ai) | AI-powered smart email generator using **JS & prompt logic**. | ![JavaScript](https://img.shields.io/badge/JS-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black) ![AI](https://img.shields.io/badge/AI-Tools-purple?style=flat) |
 
 ---
 
