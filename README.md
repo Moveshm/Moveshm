@@ -5,6 +5,7 @@
 <h1 align="center">🌟 Hey Adventurer, I'm <span style="color:#000000;">Movesh M</span> 🧙‍♂️</h1>
 <h3 align="center">⚔️ Full Stack Web Developer | Java Knight | ReactJS Wizard | Spring Boot Alchemist ⚙️</h3>
 
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&color=00FFFF&lines=Crafting+Scalable+Apps+with+Java+%26+Spring+Boot;Forging+Interactive+Frontends+with+ReactJS;Securing+Backends+with+JWT+%26+REST+APIs;Always+Leveling+Up+My+Code+Skills+💫" alt="Typing SVG" />
 </p>
