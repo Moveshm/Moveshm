@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Movesh%20M&fontSize=42&fontColor=00FFFF&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Wizard%20⚔️%20Java%20Knight&descAlignY=51&descAlign=50" />
 </p>
 
-<h1 align="center">🌟 Hey Adventurer, I'm <span style="color:#00FFFF;">Movesh M</span> 🧙‍♂️</h1>
+<h1 align="center">🌟 Hey Adventurer, I'm <span style="color:#000000;">Movesh M</span> 🧙‍♂️</h1>
 <h3 align="center">⚔️ Full Stack Web Developer | Java Knight | ReactJS Wizard | Spring Boot Alchemist ⚙️</h3>
 
 <p align="center">
